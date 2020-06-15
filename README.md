@@ -2,7 +2,7 @@
 On the use of online clustering for anomaly detection in event logs
 
 • Datasets:
-    – 8 process models1 ranging different behaviors (note that we will have additional models representing the drifted      behavior from the refer- ence model)<br/>
+    – 8 process models1 ranging different behaviors (note that we will have additional models representing the drifted      behavior from the reference model)<br/>
     – 6 types of anomalies + 1 version with all anomalies concurrently<br/>
     – 4 types of concept drift: sudden, gradual, incremental, recurring<br/>
     – 3 log sizes (in number of cases): 1000, 5000, 10000<br/>
