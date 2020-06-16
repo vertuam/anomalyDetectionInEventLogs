@@ -3,6 +3,11 @@ Experimentos-UEL-CCE<br/>
 # anomalyDetectionInEventLogs
 On the use of online clustering for anomaly detection in event logs
 
+Folders:<br/>
+- Drifited - Drifited Logs generated based on the changed models. <br/>
+- Normal - Normal logs generated based on the normal models.<br/>
+- Merged - Normal + Drifted Logs<br/>
+
 • Datasets:<br/>
     – 8 process models1 ranging different behaviors (note that we will have additional models representing the drifted      behavior from the reference model)<br/>
     – 6 types of anomalies + 1 version with all anomalies concurrently<br/>
