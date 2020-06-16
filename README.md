@@ -4,6 +4,7 @@ Experimentos-UEL-CCE<br/>
 On the use of online clustering for anomaly detection in event logs
 
 Folders:<br/>
+- Modelos - Models used for generating event logs. <br/>
 - Drifited - Drifited Logs generated based on the changed models. <br/>
 - Normal - Normal logs generated based on the normal models.<br/>
 - Merged - Normal + Drifted Logs<br/>
